@@ -1,8 +1,8 @@
 {
   "development": {
-    "username": "escortgem",
-    "password": "escortgem",
-    "database": "escortgem",
+    "username": "root",
+    "password": "Krishna123!#",
+    "database": "escorts",
     "host": "127.0.0.1",
     "dialect": "mysql",
     "define": {
@@ -11,9 +11,9 @@
   "logging": false
   },
   "test": {
-    "username": "escortgem",
-    "password": "escortgem",
-    "database": "escortgem",
+    "username": "root",
+    "password": "Krishna123!#",
+    "database": "escorts",
       "host": "127.0.0.1",
   "dialect": "mysql",
     "define": {
@@ -22,9 +22,9 @@
   "logging": false
   },
   "production": {
-    "username": "escortgem",
-    "password": "escortgem",
-    "database": "escortgem",
+    "username": "root",
+    "password": "Krishna123!#",
+    "database": "escorts",
       "host": "127.0.0.1",
     "dialect": "mysql",
     "define": {

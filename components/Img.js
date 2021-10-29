@@ -6,7 +6,7 @@ const Img = (props) => {
 
   const file = props.file
 
-    const imagePath = `${Config.url}/uploadedImages/${file}`;
+    const imagePath = `${Config.url}/public/uploadedImages/${file}`;
     const [src, setSrc] = useState(imagePath)
 
 
@@ -21,7 +21,7 @@ const Img = (props) => {
   
   
     const onErrorSrc = () => {
-      setSrc(`${Config.url}/uploadedImages/photo_coming_soon.jpg`)
+      setSrc(`${Config.url}/public/uploadedImages/photo_coming_soon.jpg`)
     }
   
     return (

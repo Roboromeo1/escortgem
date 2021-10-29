@@ -2,12 +2,11 @@ import nodemailer from 'nodemailer';
 import sgTransport from 'nodemailer-sendgrid-transport';
 const nl2br = require('react-nl2br');
 import Config from "../../config"
-import * as apikey from "../../apikey"
 
 const transporter = {
     auth: {
         // Use SendGrid API key 
-        api_key: apikey
+        api_key: "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"
     }
 }
 
