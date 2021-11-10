@@ -2,7 +2,7 @@ import React from "react";
 import TopHeader from "../../components/_App/TopHeader";
 import Navbar from "../../components/_App/Navbar";
 import AgencyInfoForm from "../../components/Dashboard/Agency/AgencyInfoForm";
-import Sidebar from "../../components/dashboard/Sidebar";
+import Sidebar from "../../components/Dashboard/SideBar";
 import { signIn, signOut, getSession } from "next-auth/client";
 import { getUser, getAgency } from "../../utils/Queries";
 

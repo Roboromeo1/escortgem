@@ -1,7 +1,7 @@
 import React from "react";
 import TopHeader from "../../components/_App/TopHeader";
 import Navbar from "../../components/_App/Navbar";
-import Sidebar from "../../components/dashboard/sidebar";
+import Sidebar from "../../components/Dashboard/SideBar";
 import { signIn, signOut, getSession } from "next-auth/client";
 import { getUser, getAgency, getAgencyEscorts } from "../../utils/Queries";
 import AgencyEscorts from "../../components/Dashboard/AgencyEscorts";
