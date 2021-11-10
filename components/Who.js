@@ -30,8 +30,8 @@ const Who = () => {
                     <div className="col-md-12">
                         <div className="feedback-content who">
                            
-                            <h1>Escort<span className="text-white">Gem</span>
-                            <span className="sub-title">A high class escort directory<br/>For agencies and independent escorts</span>
+                            <h1>Satine<span className="text-white">Escorts</span>
+                            <span className="sub-title">Hottest 100 elite escorts<br/></span>
                             </h1>
 
 

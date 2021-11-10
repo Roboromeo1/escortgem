@@ -2,11 +2,12 @@ import nodemailer from 'nodemailer';
 import sgTransport from 'nodemailer-sendgrid-transport';
 const nl2br = require('react-nl2br');
 import Config from "../../config"
+// import * as apikey from "../../apikey"
 
 const transporter = {
     auth: {
         // Use SendGrid API key 
-        api_key: "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"
+        api_key: "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"
     }
 }
 
@@ -31,9 +32,9 @@ export default async (req, res) => {
     //console.log(txt);
 
     const data = {
-        to: 'info@lnbsydneyescorts.com.au',
-        from: 'employment@lnbsydneyescorts.com.au',
-        subject: `Late Night Babes Employment Form - From: ${name}`,
+        to: 'admin@satineescorts.com.au',
+        from: 'admin@satineescorts.com.au',
+        subject: `Satine Escorts - From: ${name}`,
         text: text,
         html: `
             <b>From:</b> ${name} <br /> 

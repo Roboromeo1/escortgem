@@ -95,7 +95,7 @@ Default CSS
   position: relative;
   top: -3px;
   font-size: 30px;
-  color: #f71adc;
+  color: #c41616;
 }
 
 .user-name {
@@ -112,7 +112,7 @@ Default CSS
 }
 
 .bg-black {
-  background: black !important;
+  background: purple !important;
 }
 
 .bg-black h2 {
@@ -136,7 +136,7 @@ Default CSS
 
 :root {
   --fontFamily: 'Nunito', sans-serif;
-  --mainColor: #f71adc;
+  --mainColor: #c41616;
   --optionalColor: #4b5280;
   --whiteColor: #ffffff;
   --blackColor: #080e32;
@@ -414,7 +414,7 @@ Top Header Area CSS
 }
 
 .browse-by {
-  color: #ffc41e;
+  color: #c41616;
 }
 
 .brand {
@@ -4037,7 +4037,7 @@ Testimonials Area CSS
 .feedback-area {
   position: relative;
   z-index: 1;
-  background-color: black;
+  background-color: #3c076e;
 }
 
 .who {
@@ -4045,7 +4045,7 @@ Testimonials Area CSS
 }
 
 .who h1 {
-  color: #e017c8;
+  color: #c41616;
   font-size: 90px;
 }
 
@@ -4636,7 +4636,7 @@ Portfolio Area CSS
   bottom: 0;
   top: 0;
   opacity: 0;
-  background: #f71adcbf;
+  background: #c41616;
   -webkit-transition: opacity .5s ease-in-out;
   transition: opacity .5s ease-in-out;
   z-index: 1;
@@ -5793,6 +5793,7 @@ Gallery Area CSS
   left: 0;
   right: 0;
   bottom: 0;
+  margin: 4%;
 }
 
 .single-gallery-item .popup-btn {
@@ -8414,7 +8415,7 @@ Page Title Area CSS
 }
 
 .avail {
-  background: #f71adc;
+  background: #c41616;
 }
 
 .avail .pricing-header h3 {

@@ -113,7 +113,7 @@ const AgencyInfoForm = (props) => {
       var files = [];
       props.escort.files.map((file) => {
         files.push({
-          source: `${URL}/public/uploadedimages/${file.name}`,
+          source: `${URL}/uploadedimages/${file.name}`,
           options: {
             type: "local",
           },
@@ -1540,7 +1540,7 @@ const AgencyInfoForm = (props) => {
                       .then(load);
                   },
                   remove: (source, load, error) => {
-                    var name = source.replace(`${URL}/public/uploadedimages/`, "");
+                    var name = source.replace(`${URL}/uploadedimages/`, "");
 
                     deleteFile(name);
 

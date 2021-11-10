@@ -13,7 +13,7 @@ import Config from "../../../config"
 const Escorts = (props) => {
    
     const seo = props.seo;
-    const title = `${seo.keyword1} | Late Night Babes Sydney`;
+    const title = `${seo.keyword1} | Satine Escorts`;
     const url = `/tp/eyes/${seo.keyindex}`;
     const description = `${seo.keydesc.substr(0,157)}...`;
 
@@ -91,7 +91,7 @@ export async function getStaticProps({ params }) {
   
     return { paths, fallback: false }
   }
-
+1
 
 
 export default Escorts;

@@ -35,7 +35,7 @@ const Dashboard = (props) => {
                             <div className="notices">
                               This is your central point for all related
                               settings and configuration. Use this panel to
-                              create/edit your public EscortGem agency profile,
+                              create/edit your public Satine Escorts agency profile,
                               Create/Edit Agency escorts, manage escort tours
                               and manage your account and settings.
                               <br />
@@ -61,7 +61,7 @@ const Dashboard = (props) => {
                             <div className="notices">
                               This is your central point for all related
                               settings and configuration. Use this panel to
-                              create/edit your public EscortGem escort profile,
+                              create/edit your public Satien Escort escort profile,
                               manage escort tours
                               and manage your account and settings.
                               <br />

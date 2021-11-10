@@ -96,7 +96,8 @@ Default CSS
     position: relative;
     top: -3px;
     font-size: 30px;
-    color: #f71adc;
+    // color: #f71adc;
+    color: #c41616;
 }
 
 .user-name {
@@ -109,7 +110,7 @@ Default CSS
 .mr-auto {margin-right:auto}
 
 .bg-black{
-    background:black !important;
+    background:purple!important;
     h2 {
         color: white;
     }
@@ -134,7 +135,8 @@ Default CSS
 
 :root {
     --fontFamily: 'Nunito', sans-serif;
-    --mainColor: #f71adc;
+    // --mainColor: #f71adc;
+    --mainColor: #c41616;
     --optionalColor: #4b5280;
     --whiteColor: #ffffff;
     --blackColor: #080e32;
@@ -358,7 +360,7 @@ textarea.form-control {
 Top Header Area CSS
 =================================================*/
 .top-header-area {
-    background-color: black;
+    background-color:black;
 
     padding: 5px;
     color: white;
@@ -367,7 +369,7 @@ Top Header Area CSS
 }
 
 .browse-by {
-    color: #ffc41e;
+    color: #c41616;
 }
 
 .brand {
@@ -3875,7 +3877,7 @@ Testimonials Area CSS
 .feedback-area {
     position: relative;
     z-index: 1;
-    background-color: black
+    background-color:#3c076e;
 }
 
 
@@ -3883,7 +3885,8 @@ Testimonials Area CSS
     text-align:center;
     
     h1{
-            color: #e017c8;
+            // color: #e017c8;
+            color:#c41616;
             font-size: 90px;
         }
 
@@ -4471,7 +4474,8 @@ Portfolio Area CSS
         bottom: 0;
         top:0;
         opacity: 0;
-        background: #f71adcbf;
+        // background: #f71adcbf;
+        background:#c41616;
         transition: opacity .5s ease-in-out;
         z-index: 1;
         display: flex;
@@ -8144,7 +8148,8 @@ Page Title Area CSS
 
 .avail {
 
-    background: #f71adc;
+    // background: #f71adc;
+    background:#c41616;
     .pricing-header h3 {
         margin-bottom: 0;
     text-align: center;

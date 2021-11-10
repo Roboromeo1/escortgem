@@ -65,8 +65,8 @@ const NavbarStyleFive = () => {
                     width="133"
                     height="40"
                   /> */}
-                   {/* <img src="/images/logo.png" alt="Late Night Babes - Sydney escorts" /> */}
-                  <span className="brand"> EscortGem</span>
+                   <img src="/images/logo.png" alt="Late Night Babes - Sydney escorts" />
+                  {/* <span className="brand"> EscortGem</span> */}
                 </a>
               </Link>
 

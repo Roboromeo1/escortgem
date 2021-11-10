@@ -47,7 +47,7 @@ const Index = (props) => {
           <div className="title-section pt-50">
             <h2>
               {/* <span className="fun">Latest</span>  */}
-              Latest Escorts
+               Featured Escorts
             </h2>
           </div>
           <hr/>
@@ -60,7 +60,7 @@ const Index = (props) => {
         <Footer {...props} />
         <div className="main-links">
             <div className="container-fluid">
-        <a href="https://www.eurogirlsescort.com" target="_blank" title="EuroGirlsEscort.com"><img src="https://www.eurogirlsescort.com/dist/images/banners/468X60.jpg" alt="EuroGirlsEscort.com" title="EuroGirlsEscort.com" /></a>
+        <a href="#" target="_blank" title="EuroGirlsEscort.com"><img src="https://www.eurogirlsescort.com/dist/images/banners/468X60.jpg" alt="EuroGirlsEscort.com" title="EuroGirlsEscort.com" /></a>
         </div>
         </div>
       </div>

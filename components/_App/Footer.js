@@ -72,11 +72,11 @@ const Footer = (props) => {
                       src="/images/logo-white.png"
                       alt="Late Night Babes Sydney"
                     /> */}
-                     <span className="brand"> EscortGem</span>
+                     <span className="brand"> Satine Escort</span>
                   </a>
                 </Link>
                 <p>
-                  EscortGem. A high class escort directory for agencies and independent escorts
+                  Satine Escorts. Australia's Hottest 100 Elite Companions And Escorts.
                 </p>
 
                 <ul className="social-link">
@@ -134,7 +134,7 @@ const Footer = (props) => {
                   </li>
                   <li>
                     <Link href="/escort-jobs">
-                      <a>Employment</a>
+                      <a>Advertise Here </a>
                     </Link>
                   </li>
                   <li>
@@ -144,7 +144,7 @@ const Footer = (props) => {
                   </li>
                   <li>
                     <Link href="/ettiquette">
-                      <a>Ettiquette</a>
+                      <a>Etiquette</a>
                     </Link>
                   </li>
                   <li>
@@ -165,10 +165,10 @@ const Footer = (props) => {
                     <i className="bx bx-map"></i>
                     {nl2br(Config.address)}
                   </li>
-                  <li>
+                  {/* <li>
                     <i className="bx bx-phone-call"></i>
                     <a href={`tel:${phoneUrl}`}>{Config.phone}</a>
-                  </li>
+                  </li> */}
                   <li>
                     <i className="bx bx-envelope"></i>
                     <a href={`mailto:${Config.email}`}>{Config.email}</a>
@@ -184,8 +184,8 @@ const Footer = (props) => {
                 <p>
                   <i className="bx bx-copyright"></i>
                   {currentYear} created by{" "}
-                  <a target="_blank" href="https://chicit.com.au/">
-                    Chic IT
+                  <a target="_blank" href="https://satineescorts.com.au/">
+                    Satine Escorts
                   </a>
                 </p>
               </div>

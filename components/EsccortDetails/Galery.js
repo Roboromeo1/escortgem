@@ -10,8 +10,8 @@ const Images = (props) => {
     
     var i = [];
     
-    { f ? f.map((file) => { i.push(`/public/uploadedImages/${file.name}`) } ) :
-        i.push(`/public/uploadedImages/${props.profpic}`);
+    { f ? f.map((file) => { i.push(`/uploadedImages/${file.name}`) } ) :
+        i.push(`/uploadedImages/${props.profpic}`);
 
         return i;
 }
