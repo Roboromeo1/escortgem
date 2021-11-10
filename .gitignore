@@ -74,3 +74,5 @@ uploadedImages/
 
 out/
 node_modules
+
+.vercel
