@@ -2,7 +2,7 @@ import React from "react";
 import TopHeader from "../../../components/_App/TopHeader";
 import Navbar from "../../../components/_App/Navbar";
 import EscortProfileForm from "../../../components/Dashboard/Escort/EscortProfileForm";
-import Sidebar from "../../../components/Dashboard/Sidebar";
+import Sidebar from "../../../components/dashboard/Sidebar";
 import { signIn, signOut, getSession } from "next-auth/client";
 import { getUser, getAgency, getCities, getSelect, getServices, getEscort, getAgencyEscorts} from "../../../utils/Queries";
 
